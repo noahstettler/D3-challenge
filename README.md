@@ -15,7 +15,7 @@ Windows, OS X, Linux:
 
 * [Python Web Server](https://pythonbasics.org/webserver/)
 
-* [Multi Language IDEs](https://www.keycdn.com/blog/best-ide)
+* [Multi-Language IDEs](https://www.keycdn.com/blog/best-ide)
 
 ## Meta
 
