@@ -1,5 +1,7 @@
 # D3-challenge: Data Journalism 
-
+This project is a data visualization of correlations between health, income and age by state in the USA. The visualiztion is a scatter plot created using D3 techniques in JavaScript and uses a Python Web Server. The axis are intereactive and can be set by clicking on any of the following:
+* X-axis: Median of Poverty, Age, or Household Income
+* Y-axis: Percent total of the Obesity, Smoking, and Non-Healthcare owning State population
 
 ## Installation
 
